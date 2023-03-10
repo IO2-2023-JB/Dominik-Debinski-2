@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ifzi++V9YCg6yUf+YghBxIzgrhrUik19iF+v69pN/5UJnuoY9K86yteCCtskukQx1iSThKcv/JFam9RcSVRkqA==",
+  "success": true,
+  "projectFilePath": "D:\\Software\\Projects\\MiNI\\S6\\IO2\\Dominik-Debinski\\test-code\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dominik Dębiński\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Dominik Dębiński\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Dominik Dębiński\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Dominik Dębiński\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
